@@ -1,0 +1,7 @@
+{
+  "name": "uni-udbfn",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
